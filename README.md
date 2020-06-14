@@ -20,3 +20,5 @@
 - [Women Who Code](https://www.womenwhocode.com "Women Who Code")
 
 > Female Founders
+- [Starting a Technology Business, Inception to Fundraising as a Female Founder
+](https://www.youtube.com/watch?v=T9hrYuKpxfo&list=PLVcEZG2JPVhcqhyjIthVDmyKyyATGAMPC&index=3")
