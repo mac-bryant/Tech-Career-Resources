@@ -16,8 +16,6 @@
 > Salary Negotiation
 
 > Community
+- [Women Who Code](https://www.womenwhocode.com "Women Who Code")
 
-**Other Resources**
-
-- Women Who Code
-- Women Techmakers
+> Female Founders
