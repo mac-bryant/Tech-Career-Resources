@@ -1,7 +1,4 @@
 # Tech-Career-Resources
-***INSERT GRAPHIC HERE (include hyperlink in image)***
-
-# Tech Career Resources
 
 > Interview Prep
 
