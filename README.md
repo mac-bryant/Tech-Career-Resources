@@ -1,5 +1,8 @@
 # Tech-Career-Resources
 
+> Remote Companies
+- [Twitter](https://careers.twitter.com/en.html "Twitter")
+
 > Interview Prep
 
 > Porfolio & Code Review
