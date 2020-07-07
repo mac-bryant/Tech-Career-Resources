@@ -2,6 +2,10 @@
 
 > Remote Companies
 - [Twitter](https://careers.twitter.com/en.html "Twitter")
+- [Shopify](https://www.shopify.com/careers "Shopify")
+- [Coinbase](https://www.coinbase.com/careers "Coinbase")
+- [Facebook](https://www.facebook.com/careers/ "Facebook")
+- [Square](https://careers.squareup.com/us/en "Square")
 
 > Interview Prep
 
