@@ -6,6 +6,9 @@
 - [Coinbase](https://www.coinbase.com/careers "Coinbase")
 - [Facebook](https://www.facebook.com/careers/ "Facebook")
 - [Square](https://careers.squareup.com/us/en "Square")
+- [Otis](https://www.otis.com/corporate/careers/ "Otis")
+- [AWeber](https://www.aweber.com/careers.htm "AWeber")
+- [Upwork](https://careers.upwork.com/ "Upwork")
 
 > Interview Prep
 
